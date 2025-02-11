@@ -17,7 +17,7 @@ You can **add, update, delete, and list tasks** directly from your terminal.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/task-cli.git
+git clone https://github.com/yashng7/task-cli.git
 cd task-cli
 ```
 ###2️⃣ Install Dependencies
